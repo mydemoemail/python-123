@@ -208,3 +208,9 @@
 
 ####
 print("merge conflict example")
+
+print("Hello!")
+
+print("Some text")
+
+print("More text")
