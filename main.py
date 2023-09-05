@@ -205,3 +205,9 @@ elif n1 == n2 or n2 == n3 or n1 == n3:
     print(2)
 else:
     print(0)
+
+print("Hello!")
+
+print("Some text")
+
+print("More text")
